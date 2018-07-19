@@ -1,0 +1,100 @@
+{
+  "assetsByChunkName": {
+    "path---tomcat-theme": [
+      "path---tomcat-theme-a0e39f21c11f6a62c5ab.js",
+      "path---tomcat-theme-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-5af2e34e225b72a9a55b.js",
+      "component---src-pages-index-js-5af2e34e225b72a9a55b.js.map"
+    ],
+    "path---raptor": [
+      "path---raptor-a0e39f21c11f6a62c5ab.js",
+      "path---raptor-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----cac63ff5c1b42581353c.js",
+      "path----cac63ff5c1b42581353c.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-c4ed905fc02f2225ab75.js",
+      "component---src-pages-contact-js-c4ed905fc02f2225ab75.js.map"
+    ],
+    "path---projects": [
+      "path---projects-a0e39f21c11f6a62c5ab.js",
+      "path---projects-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-8f7a92a7eba71878702d.js",
+      "component---src-layouts-index-js-8f7a92a7eba71878702d.js.map"
+    ],
+    "component---src-pages-udemy-free-courses-bot-js": [
+      "component---src-pages-udemy-free-courses-bot-js-4fd064222872539d3512.js",
+      "component---src-pages-udemy-free-courses-bot-js-4fd064222872539d3512.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-e35206bb07e2a96889f9.js",
+      "build-js-styles.css",
+      "commons-e35206bb07e2a96889f9.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-raptor-js": [
+      "component---src-pages-raptor-js-aaa1d7be73b731fde44f.js",
+      "component---src-pages-raptor-js-aaa1d7be73b731fde44f.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---udemy-free-courses-bot": [
+      "path---udemy-free-courses-bot-a0e39f21c11f6a62c5ab.js",
+      "path---udemy-free-courses-bot-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-tomcat-theme-js": [
+      "component---src-pages-tomcat-theme-js-3a27402afc6156e9c50e.js",
+      "component---src-pages-tomcat-theme-js-3a27402afc6156e9c50e.js.map"
+    ],
+    "component---src-pages-projects-js": [
+      "component---src-pages-projects-js-049b7b2983bbfeb8b2ba.js",
+      "component---src-pages-projects-js-049b7b2983bbfeb8b2ba.js.map"
+    ],
+    "app": [
+      "app-c8c173755a90f21e71ef.js",
+      "build-js-styles.css",
+      "app-c8c173755a90f21e71ef.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---lans-fm": [
+      "path---lans-fm-a0e39f21c11f6a62c5ab.js",
+      "path---lans-fm-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-lans-fm-js": [
+      "component---src-pages-lans-fm-js-6743121977f16ae83b91.js",
+      "component---src-pages-lans-fm-js-6743121977f16ae83b91.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-498e6bf0c926175e7e2c.js",
+      "component---src-pages-about-js-498e6bf0c926175e7e2c.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
